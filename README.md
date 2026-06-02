@@ -1,6 +1,6 @@
 # Hi there, I'm Jihane 👋
 
-🎓 Computer Science student  
+🎓 Computer Science student at Beirut Arab University  
 💻 Interested in Software Development, AI, Machine Learning, and Data Science  
 🩺 Working on healthcare and diabetes management applications  
 🚀 Always learning and building real-world projects  
@@ -10,10 +10,10 @@
 ## 👩‍💻 About Me
 
 - Computer Science student at Beirut Arab University
-- Interested in Artificial Intelligence, Machine Learning, and Full-Stack Development
-- Working on the **Diabetes Guard** senior project
-- Passionate about building useful applications that solve real problems
-- Learning Flutter, Node.js, PostgreSQL, Python, and AI/ML
+- Interested in Artificial Intelligence, Machine Learning, Full-Stack Development, and Healthcare Technology
+- Currently working on my senior project: **Diabetes Guard**
+- Passionate about building useful applications that solve real-world problems
+- Learning and working with Flutter, Node.js, PostgreSQL, Python, and AI/ML
 
 ---
 
@@ -71,7 +71,7 @@ Working on AI-based features for health support and patient guidance.
 ## 📫 Let's Connect
 
 - GitHub: [JihaneLagha](https://github.com/JihaneLagha)
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: [Jihane Lagha](https://www.linkedin.com/in/jihane-lagha-550214333/)
 
 ---
 
