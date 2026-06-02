@@ -62,9 +62,9 @@ Working on AI-based features for health support and patient guidance.
 
 ## 📊 GitHub Stats
 
-![Jihane's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihaneLagha&show_icons=true&theme=radical)
+![Jihane's GitHub stats] (https://github-readme-stats.vercel.app/api?username=JihaneLagha&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JihaneLagha&layout=compact&theme=radical)
+![Top Languages] (https://github-readme-stats.vercel.app/api/top-langs/?username=JihaneLagha&layout=compact&theme=radical)
 
 ---
 
